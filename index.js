@@ -10,7 +10,7 @@ var image1 = document.querySelectorAll("img")[0];
 image1.setAttribute("src", randomImageSource);
 
 
-var randomNumber2 = randomNumber1 - 1;
+var randomNumber2 = randomNumber1 +1;
 
 var randomDiceImage2 = "dice" + randomNumber2 + ".png";
 
