@@ -1,4 +1,4 @@
-alert("Odswież stronę i rzuć kostką, jeśli wygra player 1 to wygrywasz, jeśli player 2 to przegrywasz i robisz loda ^^");
+alert("Kliknij ok i rzuć kostką, jeśli wygra player 1 to wygrywasz, jeśli player 2 to wygrywam ja  i robisz loda ^^");
 var randomNumber1 = Math.floor(Math.random() * 6 + 1);
 
 var randomDiceImage = "dice" + randomNumber1 + ".png";
